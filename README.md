@@ -139,9 +139,3 @@ It's just a **roadmap** — success requires:
 
 </div>
 
-<div align="center">
-
-⭐️ **Consistent practice and staying ethical is the key to success.**  
-🛡️ **Happy Hacking!**
-
-</div>
