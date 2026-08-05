@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/night-pulse-x-337a89275"><img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=Learn+%26+Hack+Ethically;Master+Web+Security;From+Zero+to+Bug+Bounty" alt="Typing SVG" />
+</p>
+
 ---
 
 ## ⚠️ **Warning**
@@ -135,9 +139,5 @@ It's just a **roadmap** — success requires:
 ---
 
 <div align="center">
-
-⭐️ **Consistent practice and staying ethical is the key to success.**  
-🛡️ **Happy Hacking!**
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=500&lines=⭐+Practice+consistently+and+stay+ethical;🛡️+Happy+Hacking!" alt="Typing SVG" />
 </div>
-
