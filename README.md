@@ -1,4 +1,4 @@
-```markdown
+
 # 🎯 Bug Bounty Learning Path
 
 ## 📚 **Phase 1: Foundations**
@@ -23,7 +23,7 @@
 - Read bug bounty reports
 - Practice on private programs
 - Join HackerOne, Bugcrowd
-```
+
 
 ---
 
