@@ -45,7 +45,7 @@ It's just a **roadmap** — success requires:
 |----------|---------|
 | **OWASP Juice Shop** | Realistic app with modern vulns (JWT, GraphQL, NoSQL) |
 | **WebGoat** | Comprehensive OWASP training platform |
-| **PortSwigger Academy** | Interactive labs covering most vulnerabilities |
+| **PortSwigger Academy** | Interactive labs covering most vulnerabilities | [portswigger.net all-labs](https://portswigger.net/web-security/all-labs)
 | **API Security Basics** | Understand REST APIs & GraphQL |
 
 **Goal:** Handle modern web apps and their complexities.
@@ -103,7 +103,7 @@ It's just a **roadmap** — success requires:
 | **WebGoat** | ~100 MB | `git clone https://github.com/WebGoat/WebGoat.git` <br> or <br> `docker pull webgoat/goatandwolf` |
 | **VAmPI** | ~66 KB | `git clone https://github.com/erev0s/vampi.git` |
 | **crAPI** | ~8.8 MB | `git clone https://github.com/OWASP/crAPI.git` |
-| **PortSwigger Academy** | Free Online | [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs) |
+
 
 ---
 
