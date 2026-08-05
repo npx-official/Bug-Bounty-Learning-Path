@@ -45,9 +45,10 @@ It's just a **roadmap** — success requires:
 |----------|---------|
 | **OWASP Juice Shop** | Realistic app with modern vulns (JWT, GraphQL, NoSQL) |
 | **WebGoat** | Comprehensive OWASP training platform |
-| **PortSwigger Academy** | Interactive labs covering most vulnerabilities | [portswigger.net all-labs](https://portswigger.net/web-security/all-labs)
+| **PortSwigger Academy** | Interactive labs covering most vulnerabilities | 
 | **API Security Basics** | Understand REST APIs & GraphQL |
 
+:link:https://portswigger.net/web-security/all-labs
 **Goal:** Handle modern web apps and their complexities.
 
 ---
