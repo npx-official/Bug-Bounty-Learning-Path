@@ -77,7 +77,6 @@ It's just a **roadmap** — success requires:
 | **Hack The Box** | Realistic challenges to test skills |
 
 **Goal:** Master the essential tools you'll use daily.
-
 ---
 
 ## 🧠 **Phase 5: Real World**
@@ -91,6 +90,19 @@ It's just a **roadmap** — success requires:
 | **Be Patient & Persistent** | First bounty may take months |
 
 **Goal:** Transition from learning to real-world application.
+
+---
+
+## 📦 **Labs Download**
+
+| Lab | Size | Download Commands |
+| :--- | :--- | :--- |
+| **DVWA** | ~210 MB | `git clone https://github.com/digininja/DVWA.git` <br> or <br> `docker pull vulnerables/web-dvwa` |
+| **OWASP Juice Shop** | ~240 MB | `git clone https://github.com/juice-shop/juice-shop.git` <br> or <br> `docker pull bkimminich/juice-shop` |
+| **OWASP Mutillidae II** | ~4.2 MB | `git clone https://github.com/webpwnized/mutillidae.git` |
+| **WebGoat** | ~100 MB | `git clone https://github.com/WebGoat/WebGoat.git` <br> or <br> `docker pull webgoat/goatandwolf` |
+| **VAmPI** | ~66 KB | `git clone https://github.com/erev0s/vampi.git` |
+| **crAPI** | ~8.8 MB | `git clone https://github.com/OWASP/crAPI.git` |
 
 ---
 
@@ -119,6 +131,13 @@ It's just a **roadmap** — success requires:
 **Total:** 6–8 months of consistent practice to reach your first bounty.
 
 ---
+
+<div align="center">
+
+⭐️ **Consistent practice and staying ethical is the key to success.**  
+🛡️ **Happy Hacking!**
+
+</div>
 
 <div align="center">
 
