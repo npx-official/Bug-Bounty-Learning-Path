@@ -103,7 +103,7 @@ It's just a **roadmap** — success requires:
 | **WebGoat** | ~100 MB | `git clone https://github.com/WebGoat/WebGoat.git` <br> or <br> `docker pull webgoat/goatandwolf` |
 | **VAmPI** | ~66 KB | `git clone https://github.com/erev0s/vampi.git` |
 | **crAPI** | ~8.8 MB | `git clone https://github.com/OWASP/crAPI.git` |
-
+| **PortSwigger Academy** | `[PortSwigger.net](https://portswigger.net/web-security/all-labs)` |
 ---
 
 ## 🚨 **Common Mistakes to Avoid**
